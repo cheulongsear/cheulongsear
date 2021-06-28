@@ -1,10 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-- 👋 Hi, I’m Cheulong Sear
-- 👀 I’m interested in learning new languages and coding
-- 🌱 I’m currently learning japanese and data science 
+- 👋 Hi, I’m Cheulong Sear from Cambodia. Currently base in Chiang Mai, Thailand.
+- 👀 I’m interested in learning new languages(日本語) and coding.
+- 🌱 I’m currently learning japanese and data science.
 - 💞️ I’m looking to collaborate on any project that allow newbie to start and learn. I always want to learn new thing.
 - 📫 How to reach me cheulong.dev@gmail.com
+
+#### Skills and Experience
+
+- React
+- React Native
+- HTML, CSS, JS
+- Firebase
+
+**Learning Skills**
+- Vue
+- Gastby
+- Taiwind
 
 <!---
 cheulong/cheulong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
