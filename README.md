@@ -1,4 +1,4 @@
-# Hi there I’m Cheulong 👋
+# Hi there, I’m Cheulong 👋
 
 - 👋 Hi, I’m Cheulong Sear from Cambodia. Currently base in Chiang Mai, Thailand.
 - 👀 I’m interested in learning new languages(日本語) and coding.
