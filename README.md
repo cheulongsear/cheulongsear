@@ -15,6 +15,7 @@
 
 **Learning Skills**
 - Vue
+- Graphql
 - Gastby
 - Taiwind
 
